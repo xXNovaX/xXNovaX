@@ -31,6 +31,19 @@ el objetivo de realizar la transacción completa al sector TI.
 ## 🛠️ Proyectos Destacados
 ### [Tecnología Educativa](https://github.com/xXNovaX/Tecnologia-educativa)
 * Desarrollo en Java enfocado a soluciones de aprendizaje.
+
+---
+
+## 🎯 Mis Próximos Pasos
+Actualmente, estoy cursando el séptimo semestre de mi carrera y busco mi primera oportunidad profesional en el sector TI (puesto Trainee o Junior). Mi objetivo es aplicar mis conocimientos técnicos y mis certificaciones en un entorno desafiante donde pueda seguir creciendo.
+
+---
+## 📫 ¿Charlamos?
+¡Me encanta conectar con otros apasionados de la tecnología y la ciberseguridad! Si quieres compartir ideas o tienes una oportunidad laboral, no dudes en contactarme:
+
+* **Email:** benja.220796@gmail.com
+* **LinkedIn:** [Benjamín Contreras Soto](https://www.linkedin.com/in/benjamin-contreras-soto
+* **Ubicación:** Santiago, Chile 🇨🇱
 <!--
 **xXNovaX/xXNovaX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
